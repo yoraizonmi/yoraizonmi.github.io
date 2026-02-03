@@ -1,4 +1,3 @@
-# yoraizonmi.github.io
 {
   "name": "rest-express",
   "version": "1.0.0",
